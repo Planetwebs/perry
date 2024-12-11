@@ -1,0 +1,99 @@
+.contact{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.contact1{ 
+    width: 600px;
+}
+.contact1 h1{
+    color: red;
+    font-size: 70px;
+    margin-left: 40px;
+}
+.contact1 h2{
+    text-align: center;
+}
+.address{
+    display: flex;
+    justify-content: space-around;
+ 
+    
+}
+.address span{
+    color: red;
+    font-size: 16px;
+    font-weight: 800;
+    margin-bottom: 0;
+}
+.address p{
+    margin-top: 0;
+    width: 225px;
+    line-height: 23px;
+    font-size: 13px;
+    font-weight: 400;
+
+}
+.contact2{
+    padding-top: 50px;
+    width: 600px;
+    margin-left: 0;
+    font-size: 20px;
+    color: rgb(125, 123, 123);
+}
+.contact2 input{
+    width: 93%;
+    padding: 12px;
+    font-size: 17px;
+    border: 2px solid rgb(228, 225, 225);
+
+}
+.contact2 textarea{
+    width: 93%;
+    height: 200px;
+    border: 2px solid rgb(228, 225, 225);
+}
+.contact2 button{
+    padding: 13px;
+    width: 170px;
+    background-color: red;
+    font-size: 20px;
+    border: none;
+    margin-top: 10px;
+}
+.contact2 a{
+    color: white;
+    text-decoration: none;
+}
+.contact2 button:hover {
+    background-color: rgb(71, 2, 2);
+}
+hr{
+    width: 87%;
+    margin-top: 40px;
+}
+.map{
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px solid rgb(234, 230, 230);
+    margin-bottom: 30px;
+  height: auto;
+}
+.image{
+    padding-top: 30px;
+     width: 600px;
+    height: 300px;
+    
+  
+}
+.image img{
+    width: 87%;
+    margin-left: 40px;
+    
+}
+.icon{
+    padding: 130px;
+}
+
+
+

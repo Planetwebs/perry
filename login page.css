@@ -1,0 +1,62 @@
+ .con{ 
+    width: 100%; 
+    padding: 20px; 
+    text-align: center;
+    color: dimgray; 
+    margin: auto;
+    border-bottom: 1px solid rgb(235, 233, 233);
+  }
+input{ 
+      padding: 1%;
+       width: 40%;
+      text-align: center; 
+      text-align: start;
+      border-radius: 20px; 
+      
+    }
+label{
+       font-size: 20px;
+  }
+a{
+       color: red;
+      }
+a:hover{ 
+      color: blue;
+  }
+button{
+    border-radius: 20px;
+     width: 35%;
+    padding:1%;
+    font-size: 30px;
+    background-color: green;
+    color: black;
+    border: none;
+  } 
+  button:hover{
+    filter: brightness(50%);
+    color: #fff;
+  }
+h1{
+    color: chocolate;
+  }
+ p{
+  color: black;
+ }     
+ h5{
+  color: rgb(78, 3, 3);
+  text-align: end;
+  margin-right: 100px;
+  margin-top: -20px;
+ }
+ .whatsapp{
+  position: fixed;
+  right: 20px;
+  top: 400px;
+  font-size: 40px;
+}
+.fa-whatsapp{
+  background-color: rgb(45, 183, 66);
+  color: white;
+padding: 10px 15px;
+border-radius: 50%;
+}
